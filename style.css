@@ -1,0 +1,32 @@
+.jumbotron h1 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+}
+
+.offline {
+	background-color:#F2F3FF;
+	font-family: 'Montserrat', sans-serif;
+	padding:10px;
+	margin:5px;
+	opacity:.75;
+}
+
+.online {
+	background-color:rgb(181, 254, 126);
+	font-family: 'Montserrat', sans-serif;
+	padding:10px;
+	margin:5px;
+}
+
+img {
+	height:100px;
+}
+
+p {
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+a {
+	font-size:32px;
+}
